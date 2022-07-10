@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243893081042",
+    "project_id": "chat-app-d87fb",
+    "storage_bucket": "chat-app-d87fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243893081042:android:8aabdca3a32f3df25e6e0b",
+        "android_client_info": {
+          "package_name": "com.screendead.chat_app.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243893081042-r4tk1o525cbqimbl1dsmod08fh1818ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeUUhqtdeMKQPg3Fb5baAaFsV_o7n5Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243893081042-r4tk1o525cbqimbl1dsmod08fh1818ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
